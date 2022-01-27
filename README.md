@@ -1,9 +1,9 @@
 ![I am a full stack web developer.](https://media-exp1.licdn.com/dms/image/C5116AQHDKshi_-1M5A/profile-displaybackgroundimage-shrink_350_1400/0/1581585616076?e=1648684800&v=beta&t=fID-mm6F_aIpyCKy7fV7PFgOQGx6W8DHPySC61lLye4)
 ## Hi there 👋, Naimul Hassan
-### I am a full stack web developer from Bangladesh.
+### I am a full stack developer from Bangladesh.
 
 
-I am a full stack web developer and successfully completed several web development projects.
+I am a passionate web developer and successfully completed several web development projects.
 
 My area of expertise includes but not limited to both frontend and backend development.
 
