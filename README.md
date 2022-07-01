@@ -9,7 +9,7 @@ My area of expertise includes but not limited to both frontend and backend devel
 
 I love to build responsive layouts and got the ability to quickly transform any website into responsive mobile friendly website . I love to learn new things and always take ready to accept challenges.
 
-Skills: REACT / JS / HTML / CSS / Python / Django 
+Skills: Angular / REACT / JavaScript / TypeScip / HTML / CSS / Python / Java / Node Js 
 
 - 🔭 I’m currently working on full stack web development projects. 
 - 👯 I’m looking to collaborate on github 
