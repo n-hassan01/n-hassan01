@@ -3,13 +3,13 @@
 ### I am a full stack developer from Bangladesh.
 
 
-I am a passionate web developer and successfully completed several web development projects.
+I am a passionate software developer and successfully completed several web development projects.
 
 My area of expertise includes but not limited to both frontend and backend development.
 
 I love to build responsive layouts and got the ability to quickly transform any website into responsive mobile friendly website . I love to learn new things and always take ready to accept challenges.
 
-Skills: Angular / REACT / JavaScript / TypeScip / HTML / CSS / Python / Java / Node Js 
+Skills: Angular / REACT / JavaScript / TypeScipt / HTML / CSS / Express / Java / Node Js / Spring / Jersey
 
 - 🔭 I’m currently working on full stack web development projects. 
 - 👯 I’m looking to collaborate on github 
